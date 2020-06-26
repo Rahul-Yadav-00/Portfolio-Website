@@ -73,8 +73,13 @@ html, body{
 .card-item:hover{
     transform: scale(1.05);
 }
+.card-hover{
+    text-decoration: none;
+    color: black;
+}
 .card-hover:hover{
     text-decoration: none;
+    color: black;
 }
 .card-item h4{
     padding-left: 20px;
