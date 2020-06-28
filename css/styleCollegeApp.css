@@ -184,7 +184,7 @@ footer{
         display: block;
     }
     nav{
-        min-height: 10vh;
+        min-height: 15vh;
     }
     body{
         overflow-x: hidden;
