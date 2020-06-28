@@ -130,3 +130,30 @@ footer{
     text-decoration: none;
     color: black;
 }
+@media(max-width: 600px){
+    .image-text h1{
+        margin: 0;
+        padding: 0;
+        font-size: 8vw;
+        color: white
+    }
+    .image-text h3{
+        text-align: center;
+        margin-top: 5px;
+    }
+    .image-text h3 span{
+        background-color: #ed9941;
+        /* box-shadow: 0 5px 5px 5px rgba(255, 255, 0, 0.096); */
+        margin:0;
+        padding: 0.6vw;
+        color: white;
+        font-size: 3vw;
+    }
+    .col-xs-6 .links a{
+        font-size: 25px;
+    }
+    .col-xs-6 .links a{
+        padding: 10px;
+        color: grey;
+    }
+}
