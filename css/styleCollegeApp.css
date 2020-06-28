@@ -4,6 +4,7 @@ html , body{
     height: 100%;
     width: 100%;
     background-color: white;
+    overflow-x: hidden;
 }
 /* .navbar{
     background-color: #000000;
@@ -209,5 +210,6 @@ footer{
 }
 .nav-active{
     transform: translateX(0%);
+    /* overflow-x: hidden; */
 }
 
