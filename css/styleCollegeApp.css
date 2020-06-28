@@ -96,9 +96,8 @@ footer{
         margin: auto;
     }
     .project-text{
-        padding: 100px;
         padding-top: 15vh;
-        padding-bottom: 40px;
+        padding: 40px;
     }
     .gap{
         padding-top: 20px;
