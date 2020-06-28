@@ -184,7 +184,7 @@ footer{
         display: block;
     }
     nav{
-        min-height: 15vh;
+        min-height: 10vh;
     }
     body{
         overflow-x: hidden;
@@ -192,7 +192,7 @@ footer{
     .nav-links{
         position: absolute;
         right: 0px;
-        top:7vh;
+        top:10vh;
         height: 30vh;
         background-color: black;
         width: 50%;
