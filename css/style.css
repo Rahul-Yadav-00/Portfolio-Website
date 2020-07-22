@@ -93,16 +93,22 @@ html, body{
     padding-left: 20px;
     padding-top: 10px;
 }
-.card-image-app{
+.card-image-college-app{
     height: 70%;
     max-width: 100%;
     background: url(images/iphoneHome.png) no-repeat center center;
     background-size: contain;
 }
-.card-image-website{
+.card-image-portfolio-website{
     height: 70%;
     max-width: 100%;
     background: url(images/Website.jpg) no-repeat center center;
+    background-size: contain;
+}
+.card-image-college-website{
+    height: 70%;
+    max-width: 100%;
+    background: url(images/dashboard_show_1.png) no-repeat center center;
     background-size: contain;
 }
 footer{
