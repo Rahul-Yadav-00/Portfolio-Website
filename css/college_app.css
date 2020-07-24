@@ -182,6 +182,14 @@ footer{
         color:white;
         opacity: 1;
     }
+    .col-sm-6 .links a{
+        padding: 5px 15px 10px 15px;
+        /* padding-bottom: 0; */
+    }
+    .col-sm-6 .links a:hover{
+        padding: 5px 15px 10px 15px;
+        /* padding-bottom: 0; */
+    }
     .display-project-both-images{
         display: none;
     }
