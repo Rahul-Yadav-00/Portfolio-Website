@@ -179,7 +179,7 @@ footer{
     .image{
         position: relative;
         /* background-color: transparent; */
-        background: url(images/mobilescreen.png);
+        background: url(images/mobilescreen.png) fixed;
         background-color: #096477;
         background-repeat: no-repeat;
         background-size: cover;
