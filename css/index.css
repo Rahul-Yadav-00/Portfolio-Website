@@ -4,7 +4,7 @@ html, body{
     background-color: #FAFAFA;
 }
 .image{
-    background: url(images/portfoliohomescreen.png) fixed;
+    background: url(images/mainPage/intro_image_website.png) fixed;
     background-color: #096477;
     background-repeat: no-repeat;
     background-size: contain;
@@ -97,19 +97,19 @@ html, body{
 .card-image-college-app{
     height: 70%;
     max-width: 100%;
-    background: url(images/iphoneHome.png) no-repeat center center;
+    background: url(images/mainPage/projects/project_college_app.png) no-repeat center center;
     background-size: contain;
 }
 .card-image-portfolio-website{
     height: 70%;
     max-width: 100%;
-    background: url(images/Website.jpg) no-repeat center center;
+    background: url(images/mainPage/projects/project_portfolio.png) no-repeat center center;
     background-size: contain;
 }
 .card-image-college-website{
     height: 70%;
     max-width: 100%;
-    background: url(images/dashboard_show_1.png) no-repeat center center;
+    background: url(images/mainPage/projects/project_college_website.png) no-repeat center center;
     background-size: contain;
 }
 footer{
@@ -183,7 +183,7 @@ footer{
     .image{
         position: relative;
         /* background-color: transparent; */
-        background: url(images/mobilescreen.png);
+        background: url(images/mainPage/intro_image_mobile.png);
         background-color: #096477;
         background-repeat: no-repeat;
         background-size: cover;
